@@ -1,5 +1,5 @@
 # FizzBuzz
-FizzBuzz is a simple programming problem I like to solve with job candidates using pair-programming. 
+FizzBuzz is a simple programming problem I like to solve with job candidates using TDD-pair-programming. 
 
 To get started hand the [problem description](fizzbuzz.txt) to the candidate. If needed, briefly explain [the TDD-cycle](https://i2.wp.com/www.funkysi1701.com/wp-content/uploads/2017/03/tdd_flow.gif?resize=287%2C300&ssl=1). Depending on the candidate's experience/knowledge let him/her start writing the first unit test or write the first one as an ice-breaker yourself.
 
